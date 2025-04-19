@@ -1,5 +1,3 @@
-# pythonweek3
-
 def calculate_discount(price, discount_percent):
     """Calculate the final price after applying a discount if it's 20% or higher."""
     if discount_percent >= 20:
